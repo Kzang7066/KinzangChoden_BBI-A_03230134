@@ -1,3 +1,19 @@
+#Github Repo Link
+#https://github.com/Kzang7066/KinzangChoden_BBI-A_03230134
+
+#Kinzang Choden
+#BBI A
+#03230134
+
+# Reference: https://docs.python.org/3/library/os.path.html#os.path.exists
+#Reference: https://docs.python.org/3/library/functions.html#print
+#Reference: https://docs.python.org/3/library/stdtypes.html#str.isdigit
+# Reference: https://docs.python.org/3/library/os.html
+# Reference: https://docs.python.org/3/library/functions.html#open
+
+#Solution Score: 306786265
+
+
 # Import the os module, which provides a way to use operating system dependent functionality
 import os
 
@@ -50,3 +66,5 @@ def main():
 if __name__ == "__main__":
     # Call the main function
     main()
+
+     
